@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 101,
+    "Nom": "Alice Dupont",
+    "Email": "alice@corp.com",
+    "Montant": 1250.50,
+    "EstActif": true
+  },
+  {
+    "Id": 102,
+    "Nom": "Bob Martin",
+    "Email": "bob@test.com",
+    "Montant": 500.00,
+    "EstActif": false
+  },
+  {
+    "Id": 103,
+    "Nom": "Charlie Leblanc",
+    "Email": "charlie@data.fr",
+    "Montant": 2500.75,
+    "EstActif": true
+  },
+  {
+    "Id": 104,
+    "Nom": "Diana Prince",
+    "Email": "diana@mail.net",
+    "Montant": 50.25,
+    "EstActif": true
+  },
+  {
+    "Id": 105,
+    "Nom": "Eve Robert",
+    "Email": "eve@corp.com",
+    "Montant": 890.30,
+    "EstActif": true
+  },
+  {
+    "Id": 106,
+    "Nom": "Frank Miller",
+    "Email": "frank@global.org",
+    "Montant": 4500.99,
+    "EstActif": false
+  }
+]
